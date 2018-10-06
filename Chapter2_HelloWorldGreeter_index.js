@@ -1,7 +1,7 @@
 'use strict';
 const Alexa = require('alexa-sdk');
 
-const APP_ID = 'amzn1.ask.skill.b713e39c-b836-4a6a-84c2-2975198c05aa';
+const APP_ID = 'your-alexa-skill-id';
 
 const handlers = {
   'LaunchRequest': function () {
